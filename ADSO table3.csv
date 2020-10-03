@@ -1,0 +1,42 @@
+Id,Label,timeset,Autor,modularity_class,Time,Time II,Death,degree,weighted degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Birth,Movimiento Literario,Lopez Bueno 2006,Pedraza,Years,modularity2
+AgustinSalazar_Sonetos,AgustinSalazar_Sonetos,"<[1636.0, 1675.0]>",[AgustinSalazar],0,1636,1675,1675,7,140,4,0.449438,0.525,2.963.356,1636,Baroque,Continuity and Dispersion,,39,0
+BartolomeArgensola_Sonetos,BartolomeArgensola_Sonetos,"<[1562.0, 1700.0]>",[BartolomeArgensola],0,1562,1631,1631,14,374,3,0.555556,0.65,64.552.412,1562,Baroque,Transition,Baroque,69,0
+FranciscodeMedrano_Sonetos,FranciscodeMedrano_Sonetos,"<[1570.0, 1594.0]>",[FranciscodeMedrano],0,1570,1607,1607,11,124,3,0.533333,0.6125,49.495.559,1570,Transition,Transition,Baroque,37,0
+JosephdeLitalayCastelvi_Sonetos,JosephdeLitalayCastelvi_Sonetos,"<[1672.0, 1701.0]>",[JosephdeLitalayCastelvi],0,1672,1701,1701,14,448,3,0.547945,0.645833,75.355.112,1672,Baroque,Continuity and Dispersion,,29,0
+LopedeZarate_Sonetos,LopedeZarate_Sonetos,"<[1580.0, 1658.0]>",[LopedeZarate],1,1580,1658,1658,8,248,4,0.449438,0.533333,7.365.065,1580,,Culmination,Baroque,78,0
+LuisdeUlloayPereira_Sonetos,LuisdeUlloayPereira_Sonetos,"<[1584.0, 1674.0]>",[LuisdeUlloayPereira],4,1584,1674,1674,8,252,4,0.444444,0.533333,7.172.511,1584,,Continuity and Dispersion,Baroque,90,0
+Quevedo_Sonetos,Quevedo_Sonetos,"<[1580.0, 1645.0]>",[Quevedo],0,1580,1645,1645,13,360,4,0.493827,0.608333,2.337.146,1580,Baroque,Baroque,Baroque,65,0
+SorJuanaInesdelaCruz_Sonetos,SorJuanaInesdelaCruz_Sonetos,"<[1648.0, 1695.0]>",[SorJuanaInesdelaCruz],1,1648,1695,1695,8,256,3,0.47619,0.55,33.207.078,1648,Baroque,Continuity and Dispersion,Baroque,47,0
+AN_SonetosP2,AN_SonetosP2,"<[1619.0, 1619.0]>",[AN],2,1619,1619,1619,8,274,3,0.470588,0.545833,18.366.204,1619,,,,0,1
+FranciscodeFigueroa_Sonetos,FranciscodeFigueroa_Sonetos,"<[1530.0, 1588.0]>",[FranciscodeFigueroa],5,1530,1588,1589,8,126,4,0.449438,0.533333,31.631.555,1536,Transition,Renovation,Renaissance,53,2
+FranciscoDelaTorre_Sonetos,FranciscoDelaTorre_Sonetos,"<[1534.0, 1594.0]>",[FranciscoDelaTorre],6,1534,1594,1594,8,232,3,0.5,0.566667,30.028.259,1534,Transition,Renovation,Renaissance,60,1
+GutierredeCetina_Sonetos,GutierredeCetina_Sonetos,"<[1520.0, 1557.0]>",[GutierredeCetina],5,1520,1557,1554,10,310,4,0.408163,0.525,25.727.964,1510,Renaissance,Innovation,Renaissance,44,2
+Herrera_Sonetos,Herrera_Sonetos,"<[1534.0, 1597.0]>",[Herrera],2,1534,1597,1597,9,276,3,0.481928,0.5625,19.612.856,1534,Transition,Renovation,Renaissance,63,1
+JuandeArguijo_Sonetos,JuandeArguijo_Sonetos,"<[1567.0, 1623.0]>",[JuandeArguijo],2,1567,1623,1623,9,294,3,0.493827,0.570833,24.685.248,1567,Transition,Transition,Baroque,56,1
+JuandeJauregui_Sonetos,JuandeJauregui_Sonetos,"<[1583.0, 1641.0]>",[JuandeJauregui],2,1583,1641,1641,10,192,3,0.519481,0.595833,25.549.134,1583,Baroque,Transition,Baroque,58,1
+Pacheco_Sonetos,Pacheco_Sonetos,"<[1564.0, 1644.0]>",[Pacheco],2,1564,1644,1644,8,208,3,0.493827,0.5625,25.701.009,1564,Baroque,Culmination,Baroque,80,1
+PedroSotodeRojas_Sonetos,PedroSotodeRojas_Sonetos,"<[1584.0, 1658.0]>",[PedroSotodeRojas],6,1584,1658,1658,9,246,3,0.481928,0.5625,34.319.524,1584,Baroque,Continuity and Dispersion,Baroque,74,1
+BernardinodeRebolledo_Sonetos,BernardinodeRebolledo_Sonetos,"<[1597.0, 1676.0]>",[BernardinodeRebolledo],4,1597,1676,1676,6,266,4,0.412371,0.489583,190.202,1597,,Continuity and Dispersion,Baroque,79,0
+Cervantes_Sonetos,Cervantes_Sonetos,"<[1547.0, 1616.0]>",[Cervantes],2,1547,1616,1616,10,232,3,0.547945,0.6125,57.149.772,1547,Baroque,Transition,Baroque,69,1
+FranciscodeBorja_Sonetos,FranciscodeBorja_Sonetos,"<[1510.0, 1572.0]>",[FranciscodeBorja],4,1510,1572,1658,12,218,3,0.526316,0.616667,48.455.601,1577,,Continuity and Dispersion,Baroque,81,0
+Gongora_Sonetos,Gongora_Sonetos,"<[1561.0, 1627.0]>",[Gongora],0,1561,1627,1627,8,250,4,0.481928,0.558333,16.103.858,1561,Baroque,Culmination,Baroque,66,0
+LopedeVega_Sonetos,LopedeVega_Sonetos,"<[1562.0, 1635.0]>",[LopedeVega],3,1562,1635,1635,7,312,3,0.481928,0.545833,11.974.369,1562,Baroque,Culmination,Baroque,73,0
+LupercioArgensola_Sonetos,LupercioArgensola_Sonetos,"<[1559.0, 1613.0]>",[LupercioArgensola],0,1559,1613,1613,7,186,3,0.506329,0.5625,65.893.581,1559,Baroque,Transition,Baroque,54,0
+PedrodeEspinosa_Sonetos,PedrodeEspinosa_Sonetos,"<[1578.0, 1650.0]>",[PedrodeEspinosa],6,1578,1650,1650,7,206,4,0.465116,0.535417,8.696.735,1578,Baroque,Transition,Baroque,72,1
+TirsodeMolina_Sonetos,TirsodeMolina_Sonetos,"<[1579.0, 1680.0]>",[TirsodeMolina],3,1579,1680,1648,8,212,3,0.487805,0.558333,17.386.952,1579,Baroque,,Baroque,69,0
+JuandeTassisyPeralta_Sonetos,JuandeTassisyPeralta_Sonetos,"<[1582.0, 1622.0]>",[JuandeTassisyPeralta],4,1582,1622,1622,6,200,4,0.430108,0.502083,6.292.828,1582,Baroque,Transition,Baroque,40,0
+BocangelyUnzueta_Sonetos,BocangelyUnzueta_Sonetos,"<[1603.0, 1658.0]>",[BocangelyUnzueta],1,1603,1658,1658,6,252,3,0.454545,0.516667,22.384.608,1603,Baroque,Continuity and Dispersion,Baroque,55,0
+PedrodePadilla_Sonetos,PedrodePadilla_Sonetos,"<[1540.0, 1600.0]>",[PedrodePadilla],5,1540,1600,1596,7,132,3,0.444444,0.516667,46.994.175,1544,Baroque,Transition,Renaissance,52,2
+PolodeMedina_Sonetos,PolodeMedina_Sonetos,"<[1603.0, 1676.0]>",[PolodeMedina],1,1603,1676,1676,6,146,4,0.434783,0.504167,2.711.147,1603,Baroque,Continuity and Dispersion,Baroque,73,0
+DiegoXimenezAyllon_Sonetos,DiegoXimenezAyllon_Sonetos,"<[1530.0, 1590.0]>",[DiegoXimenezAyllon],2,1530,1590,1590,5,214,3,0.43956,0.495833,11.738.613,1530,,Renovation,Renaissance,60,1
+FernandodeAcunya_Sonetos,FernandodeAcunya_Sonetos,"<[1518.0, 1580.0]>",[FernandodeAcunya],5,1518,1580,1580,9,388,3,0.449438,0.5375,27.844.904,1518,Renaissance,Innovation,Renaissance,62,2
+FranciscodeAldana_Sonetos,FranciscodeAldana_Sonetos,"<[1537.0, 1578.0]>",[FranciscodeAldana],2,1537,1578,1578,5,186,3,0.434783,0.491667,11.300.059,1537,Transition,Renovation,Renaissance,41,1
+DiegoHurtadodeMendoza_Sonetos,DiegoHurtadodeMendoza_Sonetos,"<[1503.0, 1575.0]>",[DiegoHurtadodeMendoza],5,1503,1575,1575,8,250,3,0.434783,0.516667,1.495.491,1503,Renaissance,Innovation,Renaissance,72,2
+Garcilaso_Sonetos,Garcilaso_Sonetos,"<[1501.0, 1536.0]>",[Garcilaso],5,1501,1536,1536,5,204,4,0.366972,0.441667,0.896825,1501,Renaissance,Innovation,Renaissance,35,2
+JuanBoscan_Sonetos,JuanBoscan_Sonetos,"<[1490.0, 1542.0]>",[JuanBoscan],5,1490,1542,1542,9,476,3,0.449438,0.5375,20.678.446,1487,Renaissance,Innovation,Renaissance,55,2
+JuandeAlmeida_Sonetos,JuandeAlmeida_Sonetos,"<[1542.0, 1572.0]>",[JuandeAlmeida],5,1542,1572,1572,9,188,4,0.421053,0.520833,15.496.293,1542,,Innovation,,30,2
+JuandeTimoneda_Sonetos,JuandeTimoneda_Sonetos,"<[1490.0, 1583.0]>",[JuandeTimoneda],5,1490,1583,1583,6,194,4,0.380952,0.460417,1.868.211,1500,Transition,Renovation,Renaissance,83,2
+LuisCarrilloySotomayor_Sonetos,LuisCarrilloySotomayor_Sonetos,"<[1583.0, 1610.0]>",[LuisCarrilloySotomayor],6,1583,1610,1610,7,214,3,0.493827,0.554167,19.974.205,1582,Baroque,Transition,Baroque,28,1
+TrilloyFigueroa_Sonetos,TrilloyFigueroa_Sonetos,"<[1618.0, 1680.0]>",[TrilloyFigueroa],0,1618,1680,1680,8,140,4,0.45977,0.54375,11.268.761,1620,Baroque,Continuity and Dispersion,Baroque,60,0
+LuisMartindelaPlaza_Sonetos,LuisMartindelaPlaza_Sonetos,"<[1577.0, 1625.0]>",[LuisMartindelaPlaza],6,1577,1625,1625,7,242,4,0.449438,0.522917,6.310.989,1577,,Transition,Baroque,48,1
+MiradeAmescua_Sonetos,MiradeAmescua_Sonetos,"<[1577.0, 1644.0]>",[MiradeAmescua],3,1577,1644,1644,6,172,4,0.43956,0.5125,3.617.832,1577,,Transition,Baroque,67,0
