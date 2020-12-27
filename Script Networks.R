@@ -1,11 +1,9 @@
 #####################################################################################
 ##                                                                                 ##
-##    LOS TEXTOS POÉTICOS DE FERNANDO DE HERRERA.                                  ##
-##    APROXIMACIONES DESDE LA ESTILÍSTICA DE CORPUS Y LA ESTILOMETRÍA              ##
-##    Tesis doctoral escrita por Laura Hernández Lorenzo                           ##
-##    Capítulo 7. Análisis con métodos estilométricos                              ##
-##    Apartado 7.8. Un mapa de la evolución de la poesía áurea: análisis de redes  ##
-##    Script 4 de la Tesis                                                         ##
+##    STYLISTIC CHANGE IN EARLY MODERN SPANISH POETRY                              ##
+##    THROUGH NETWORK ANALYSIS                                                     ##
+##    Paper by Laura Hernández-Lorenzo                                             ##
+##    Script for the mathematical operations with the network                      ##
 ##                                                                                 ##
 #####################################################################################
 
