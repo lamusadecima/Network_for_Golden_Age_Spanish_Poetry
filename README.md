@@ -1,6 +1,6 @@
 # Network for Golden Age Spanish Poetry
 
-This repository includes complementary materials for my paper "Stylistic Change in Early Modern Spanish Poetry through Network Analysis (with an especial focus on Fernando de Herrera’s role)".
+This repository includes complementary materials for my study on a network for Golden Age Spanish Poetry.
 
 They include:
 - The corpus of Early Modern (Renaissance and Baroque) Spanish Poetry used in this study, completed with a file containing metadata information. These are included in the "corpus" folder.
