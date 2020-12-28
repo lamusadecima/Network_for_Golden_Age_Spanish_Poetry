@@ -1,4 +1,4 @@
-# Network_for_Golden_Age_Spanish_Poetry
+# Network for Golden Age Spanish Poetry
 
 This repository includes complementary materials for my paper "Stylistic Change in Early Modern Spanish Poetry through Network Analysis (with an especial focus on Fernando de Herrera’s role)".
 
@@ -8,3 +8,15 @@ They include:
 - The R code I wrote for applying several statistical tests to the network. This can be found at the "code" folder.
 
 - Further materials, including the table exported from Gephi and used for the statistical tests and the file that reports the community size distribution, in the "materials" folder.
+
+## Corpus
+
+The corpus of Early Modern Spanish Poetry is the one prepared in my PhD: Hernández Lorenzo, L. (2020). <i>Los textos poéticos de Fernando de Herrera: Aproximaciones desde la Estilística de corpus y la Estilometría</i>, supervised by Juan Montero [Universidad de Sevilla]. https://idus.us.es/handle/11441/93465
+
+For the preparation of this corpus, Herrera's and Pacheco's poems were digitalised and modernised by myself. The poems from the rest of the authors were taken from a plain text version of the Corpus of Spanish Golden Age Sonnets, prepared by Borja Navarro and available at his GitHub: https://github.com/bncolorado/CorpusSonetosSigloDeOro . I made some changes on the texts extracted from Navarro's corpus in order to standardise  orthography in all the texts.
+
+## Citing
+
+If you find some of the resources here useful and plan on using any of them (including Herrera' corpus or the POS version of any author's texts), please cite it in this way:
+
+Hernández-Lorenzo, L. (2020). Network for Golden Age Spanish Poetry. GitHub repository available at: https://github.com/lamusadecima/Network_for_Golden_Age_Spanish_Poetry (accessed: [date of access])
