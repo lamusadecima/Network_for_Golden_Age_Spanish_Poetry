@@ -19,4 +19,4 @@ For the preparation of this corpus, Herrera's and Pacheco's poems were digitalis
 
 If you find some of the resources here useful and plan on using any of them (including Herrera' corpus or the POS version of any author's texts), please cite it in this way:
 
-Hernández-Lorenzo, L. (2020). Network for Golden Age Spanish Poetry. GitHub repository available at: https://github.com/lamusadecima/Network_for_Golden_Age_Spanish_Poetry (accessed: [date of access])
+Hernández-Lorenzo, L. Stylistic Change in Early Modern Spanish Poetry Through Network Analysis (with an Especial Focus on Fernando de Herrera’s Role). Neophilologus (2022). https://doi.org/10.1007/s11061-021-09717-2
