@@ -17,6 +17,6 @@ For the preparation of this corpus, Herrera's and Pacheco's poems were digitalis
 
 ## Citing
 
-If you find some of the resources here useful and plan on using any of them (including Herrera' corpus or the POS version of any author's texts), please cite it in this way:
+If you find some of the resources here useful and plan on using any of them (including Herrera's and Pacheco's corpus), please cite it in this way:
 
 Hernández-Lorenzo, L. Stylistic Change in Early Modern Spanish Poetry Through Network Analysis (with an Especial Focus on Fernando de Herrera’s Role). <i>Neophilologus</i> (2022). https://doi.org/10.1007/s11061-021-09717-2
